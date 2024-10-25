@@ -2,3 +2,4 @@ first commit on branch master
 second commit on branch master
 third commit on brach master
 new commit on branch bugfix
+fifth commit on branch master
