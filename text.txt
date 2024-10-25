@@ -9,3 +9,4 @@ added commit on branch newfeatures
 last commit on branch newfeatures
 10th commit on branch master
 added new branch fix
+added commit to branch fix
