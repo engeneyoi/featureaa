@@ -4,3 +4,4 @@ third commit on brach master
 new commit on branch bugfix
 fifth commit on branch master
 new branch newfeatures
+added new commit on branch newfeatures
