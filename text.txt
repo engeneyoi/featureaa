@@ -6,3 +6,4 @@ fifth commit on branch master
 new branch newfeatures
 added new commit on branch newfeatures
 added commit on branch newfeatures
+last commit on branch newfeatures
